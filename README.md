@@ -28,8 +28,8 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 - [New Boston - C Programming](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
  
 ###### Books:
-- [Head First C]()
-- [ANSI C - Balaguruswamy]()
+- [Head First C](books/c_programming_headfirst.pdf)
+- [ANSI C - Balaguruswamy](books/ansi_c_balaguruswamy.pdf)
  
  
 ### Python:
@@ -38,4 +38,4 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 - [Corey Schafer - Python Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 ###### Books:
-- [Head First Python]()
+- [Head First Python](books/head_first_python.pdf)
