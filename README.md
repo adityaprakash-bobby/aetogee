@@ -39,3 +39,16 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 
 ###### Books:
 - [Head First Python](books/head_first_python.pdf)
+
+
+### Golang:
+
+###### Video Courses:
+- [Go Basics - Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)
+
+###### Books:
+- [The Little Go Book - Karl Seguin](https://www.openmymind.net/The-Little-Go-Book/)
+- [Introduction to Programming in Go - Caleb Doxsey](http://www.golang-book.com/)
+
+###### Interactive Courses:
+- [Gophercises - Jon Calhoun](https://gophercises.com/)
