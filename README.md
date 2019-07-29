@@ -11,6 +11,7 @@ This will be very intensive compilation of resources (books, lectures, tutorials
    * [Python](#Python)
    * Golang
    * Java
+   * [Rust](#Rust)
    
 ## Introduction to Programming
 
@@ -52,3 +53,9 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 
 ###### Interactive Courses:
 - [Gophercises - Jon Calhoun](https://gophercises.com/)
+
+
+### Rust:
+
+###### Books:
+- (Official)[The Rust Programming Language](books/the_rust_lang.pdf)
