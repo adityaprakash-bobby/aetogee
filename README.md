@@ -9,7 +9,7 @@ This will be very intensive compilation of resources (books, lectures, tutorials
    * [C](#C)
    * C++
    * [Python](#Python)
-   * Golang
+   * [Golang](#Golang)
    * Java
    * [Rust](#Rust)
    
