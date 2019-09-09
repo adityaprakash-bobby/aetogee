@@ -67,6 +67,9 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 
 ### Docker:
 
+###### Videos:
+- [Dockerfile Best Practices](https://www.youtube.com/watch?v=JofsaZ3H1qM)
+
 ###### Hands-on:
 - [Docker of Begineers (Linux)](https://training.play-with-docker.com/beginner-linux/)
 - [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/)
