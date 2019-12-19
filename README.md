@@ -14,6 +14,7 @@ This will be very intensive compilation of resources (books, lectures, tutorials
    * [Rust](#Rust)
 3. Other Good Stuff
    * [Docker](#Docker)
+   * [Kubernetes](#Kubernetes)
 
    
 ## Introduction to Programming
@@ -73,3 +74,8 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 ###### Hands-on:
 - [Docker of Begineers (Linux)](https://training.play-with-docker.com/beginner-linux/)
 - [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/)
+
+### Kubernetes:
+
+###### Interactive Tutorials:
+- [Learn K8s](https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd)
