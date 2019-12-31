@@ -78,4 +78,5 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 ### Kubernetes:
 
 ###### Interactive Tutorials:
-- [Learn K8s](https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd)
+- [Learn K8s - Dev.to](https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd)
+- [K8s Concepts](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
