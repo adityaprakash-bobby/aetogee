@@ -15,6 +15,7 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 3. Other Good Stuff
    * [Docker](#Docker)
    * [Kubernetes](#Kubernetes)
+   * [AWS](#AWS)
 
    
 ## Introduction to Programming
@@ -80,3 +81,8 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 ###### Interactive Tutorials:
 - [Learn K8s - Dev.to](https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd)
 - [K8s Concepts](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+
+### AWS:
+
+###### Articles:
+- [AWS Scalabe Web Architechture](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
