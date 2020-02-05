@@ -16,6 +16,7 @@ This will be very intensive compilation of resources (books, lectures, tutorials
    * [Docker](#Docker)
    * [Kubernetes](#Kubernetes)
    * [AWS](#AWS)
+   * [Terraform](#Terraform)
 
    
 ## Introduction to Programming
@@ -85,4 +86,9 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 ### AWS:
 
 ###### Articles:
-- [AWS Scalabe Web Architechture](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
+- [AWS Scalabe Web Architechture](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1
+
+### Terraform:
+
+###### Articles:
+- [Terraform File Isolation](https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/)
