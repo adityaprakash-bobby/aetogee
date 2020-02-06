@@ -87,6 +87,7 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 
 ###### Articles:
 - [AWS Scalabe Web Architechture](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
+- [AWS in plain English](https://expeditedsecurity.com/aws-in-plain-english/)
 
 ### Terraform:
 
