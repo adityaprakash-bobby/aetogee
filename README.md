@@ -13,6 +13,7 @@ This will be very intensive compilation of resources (books, lectures, tutorials
    * Java
    * [Rust](#Rust)
 3. Other Good Stuff
+   * [Linux](#Linux)
    * [Docker](#Docker)
    * [Kubernetes](#Kubernetes)
    * [AWS](#AWS)
@@ -67,6 +68,11 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 - (Official)[The Rust Programming Language](books/the_rust_lang.pdf)
 
 ## Other Good Stuff
+
+### Linux:
+
+###### Interactive Learning:
+- [Linux Journey](https://linuxjourney.com/)
 
 ### Docker:
 
