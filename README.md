@@ -12,6 +12,7 @@ This will be very intensive compilation of resources (books, lectures, tutorials
    * [Golang](#Golang)
    * Java
    * [Rust](#Rust)
+   * [JavaScript](#JavaScript)
 3. Other Good Stuff
    * [Linux](#Linux)
    * [Docker](#Docker)
@@ -66,6 +67,14 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 
 ###### Books:
 - (Official)[The Rust Programming Language](books/the_rust_lang.pdf)
+
+### JavaScript:
+
+###### Books:
+- [You Don't Know JS, Yet](https://github.com/getify/You-Dont-Know-JS/)
+
+###### Courses:
+- [FreeCodeCamp - JavaScript Basics](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript)
 
 ## Other Good Stuff
 
