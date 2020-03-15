@@ -14,12 +14,12 @@ This will be very intensive compilation of resources (books, lectures, tutorials
    * [Rust](#Rust)
    * [JavaScript](#JavaScript)
 3. Other Good Stuff
+   * [CS Stuff](#CS Stuff)
    * [Linux](#Linux)
    * [Docker](#Docker)
    * [Kubernetes](#Kubernetes)
    * [AWS](#AWS)
    * [Terraform](#Terraform)
-
    
 ## Introduction to Programming
 
@@ -77,6 +77,10 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 - [FreeCodeCamp - JavaScript Basics](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript)
 
 ## Other Good Stuff
+
+### CS Stuffs:
+###### Learning resources:
+- [Teach Yourself CS](https://teachyourselfcs.com/)
 
 ### Linux:
 
