@@ -14,7 +14,7 @@ This will be very intensive compilation of resources (books, lectures, tutorials
    * [Rust](#Rust)
    * [JavaScript](#JavaScript)
 3. Other Good Stuff
-   * [CS Stuff](#CS Stuff)
+   * [CS Stuff](#CS Stuffs)
    * [Linux](#Linux)
    * [Docker](#Docker)
    * [Kubernetes](#Kubernetes)
