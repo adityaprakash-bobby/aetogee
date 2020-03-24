@@ -105,6 +105,9 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 - [Learn K8s - Dev.to](https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd)
 - [K8s Concepts](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
 
+###### Videos:
+- [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down](https://youtube.com/watch?v=90kZRyPcRZw)
+
 ### AWS:
 
 ###### Articles:
