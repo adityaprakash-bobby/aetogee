@@ -1,11 +1,10 @@
 # Whats and Hows of Programming
 ---
-How cool will it be to find a organised box of chocolates sorted by color! (OCD Alert!!!)
-This will be very intensive compilation of resources (books, lectures, tutorials, forums) regarding starting off with computer programming and learning it in a systematic manner. From Zero to "Imma God 'f computers".
+How cool will it be to find a organised box of chocolates sorted by color! This will be very intensive compilation of resources (books, lectures, tutorials, forums) regarding starting off with computer programming and learning various concepts related to it. This compilation now is limited to topics that I have explored yet and would fill up spaces as I explore new stuff. It will be great if anyone who comes across this repository to share resources you find helpful and fell is very friendly for any level of knowledge seeker. So pull requests are encouraged.
 
 
-1. Introduction
-2. Programming Languages
+1. [Introduction](#introduction)
+2. [Programming Languages](#programming-language)
    * [C](#C)
    * C++
    * [Python](#Python)
@@ -13,13 +12,15 @@ This will be very intensive compilation of resources (books, lectures, tutorials
    * Java
    * [Rust](#Rust)
    * [JavaScript](#JavaScript)
-3. Other Good Stuff
+3. [Other Good Stuff](#other-good-stuff)
    * [CS Stuff](#cs-stuffs)
    * [Linux](#Linux)
    * [Docker](#Docker)
    * [Kubernetes](#Kubernetes)
    * [AWS](#AWS)
    * [Terraform](#Terraform)
+   * [React](#React)
+4. [DamnThatsInteresting](#damnthatsinteresting)
    
 ## Introduction to Programming
 
@@ -118,3 +119,10 @@ This will be very intensive compilation of resources (books, lectures, tutorials
 
 ###### Articles:
 - [Terraform File Isolation](https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/)
+
+## DamnThatsInteresting:
+
+###### Videos:
+- [Evolution of Reddit's Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4)
+
+###### Threads and Articles:
