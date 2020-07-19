@@ -120,6 +120,15 @@ How cool will it be to find a organised box of chocolates sorted by color! This 
 ###### Articles:
 - [Terraform File Isolation](https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/)
 
+### React: 
+
+###### Interactive:
+- [FreeCodeCampReact - React](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap/)
+
+###### Videos: 
+- [(Playlist) ReactJS](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+- [(Playlist) ReactJS with Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+
 ## DamnThatsInteresting:
 
 ###### Videos:
