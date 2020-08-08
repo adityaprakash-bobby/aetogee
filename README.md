@@ -1,6 +1,6 @@
 # Whats and Hows of Programming
 ---
-How cool will it be to find a organised box of chocolates sorted by color! This will be very intensive compilation of resources (books, lectures, tutorials, forums) regarding starting off with computer programming and learning various concepts related to it. This compilation now is limited to topics that I have explored yet and would fill up spaces as I explore new stuff. It will be great if anyone who comes across this repository to share resources you find helpful and fell is very friendly for any level of knowledge seeker. So pull requests are encouraged.
+[WIP] This will be very intensive compilation of resources (books, lectures, tutorials, forums) regarding starting off with computer programming and learning various concepts related to it. This compilation now is limited to topics that I have explored yet and would fill up spaces as I explore new stuff. It will be great if anyone who comes across this repository to share resources you find helpful and fell is very friendly for any level of knowledge seeker. So pull requests are encouraged.
 
 
 1. [Introduction](#introduction)
